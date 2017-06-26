@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Connect5</string>
+    <string name="play_button">Play</string>
+    <string name="start_button">Start</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="ai_move">AI turn</string>
+    <string name="ai_first">AI</string>
+    <string name="player_first">Me</string>
+    <string name="quit_button">Quit</string>
+    <string name="new_game">New game</string>
+
+
+</resources>
